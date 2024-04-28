@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Avia orders fragment -->
+
+    <string name="fragment_avia_orders_from_town_hint">Откуда - Москва</string>
+    <string name="fragment_avia_orders_to_town_hint">Куда - Турция</string>
+    <string name="fragment_avia_orders_title">Поиск дешевых авиабилетов</string>
+    <string name="fragment_avia_orders_cards_title">Музыкально отлететь</string>
+    <string name="fragment_avia_orders_card_title">Die Antwoord</string>
+    <string name="fragment_avia_orders_card_town">Будапешт</string>
+    <string name="fragment_avia_orders_cost_flight">от 22 264 ₽</string>
+
+    <!-- Avia orders fragment -->
+
+    <!-- Bottom Search fragment -->
+
+    <string name="fragment_bottom_search_difficult_route">Сложный маршрут</string>
+    <string name="fragment_bottom_search_anywhere">Куда угодно</string>
+    <string name="fragment_bottom_search_weekend">Выходные</string>
+    <string name="fragment_bottom_search_hot">Горячие билеты</string>
+    <string name="fragment_bottom_card_title_one">Стамбул</string>
+    <string name="fragment_bottom_card_title_second">Сочи</string>
+    <string name="fragment_bottom_card_title_third">Пхукет</string>
+    <string name="fragment_bottom_card_description">Популярное направление</string>
+
+    <!-- Bottom Search fragment -->
+
+    <!-- Search Fragment -->
+
+    <string name="fragment_search_flight_title">Прямые рейсы</string>
+    <string name="fragment_search_flight_card_title">Уральские авиалинии</string>
+    <string name="fragment_search_flight_card_price">2 390 ₽</string>
+    <string name="fragment_search_flight_card_time">07:00  09:10   10:00  11:00  12:00  13:00  12:00 13:00 15:00 18:00</string>
+    <string name="fragment_search_watch_all">Посмотреть все билеты</string>
+    <string name="fragment_search_back_flight">обратно</string>
+    <string name="fragment_search_start_flight">24 фев</string>
+    <string name="fragment_search_start_flight_desc">, сб</string>
+    <string name="fragment_search_passenger_flight">1, эконом</string>
+    <string name="fragment_search_filters_flight">Фильтры</string>
+
+    <!-- Search Fragment -->
+
+    <!-- Tickets Fragment -->
+
+    <string name="fragment_tickets_towns_route">Москва-Сочи</string>
+    <string name="fragment_tickets_date_passenger_info">23 февраля, 1 пассажир</string>
+    <string name="fragment_tickets_rv_description">Самый удобный</string>
+    <string name="fragment_tickets_rv_cost">6 990 ₽</string>
+    <string name="fragment_tickets_rv_start_time">17:45</string>
+    <string name="fragment_tickets_rv_end_time">21:20</string>
+    <string name="fragment_tickets_rv_flight_time">3.5ч в пути</string>
+    <string name="fragment_tickets_rv_slash">/</string>
+    <string name="fragment_tickets_rv_transfer">Без пересадок</string>
+    <string name="fragment_tickets_rv_abbreviation_from">VKO</string>
+    <string name="fragment_tickets_rv_abbreviation_to">AER</string>
+    <string name="fragment_filters_text_filters">Фильтр</string>
+    <string name="fragment_filters_text_graph">График цен</string>
+
+    <!-- Tickets Fragment -->
+
+</resources>

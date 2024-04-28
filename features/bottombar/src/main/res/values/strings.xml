@@ -1,0 +1,7 @@
+<resources>
+    <string name="bottom_nav_avia_orders">Авиабилеты</string>
+    <string name="bottom_nav_hostels">Отели</string>
+    <string name="bottom_nav_route">Короче</string>
+    <string name="bottom_nav_subscribes">Подписки</string>
+    <string name="bottom_nav_profile">Профиль</string>
+</resources>

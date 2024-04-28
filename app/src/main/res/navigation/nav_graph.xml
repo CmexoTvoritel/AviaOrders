@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/aviaOrdersFragment">
+
+    <fragment
+        android:id="@+id/aviaOrdersFragment"
+        android:name="com.effmobile.aviaorders.presentation.fragments.aviaorders.AviaOrdersFragment"
+        android:label="Авиабилеты"
+        tools:layout="@layout/fragment_avia_orders" />
+    <fragment
+        android:id="@+id/hostelsFragment"
+        android:name="com.effmobile.aviaorders.presentation.fragments.hostels.HostelsFragment"
+        android:label="Отель"
+        tools:layout="@layout/fragment_hostels" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.effmobile.aviaorders.presentation.fragments.profile.ProfileFragment"
+        android:label="Профиль"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/routeFragment"
+        android:name="com.effmobile.aviaorders.presentation.fragments.route.RouteFragment"
+        android:label="Короче"
+        tools:layout="@layout/fragment_route" />
+    <fragment
+        android:id="@+id/subscribesFragment"
+        android:name="com.effmobile.aviaorders.presentation.fragments.subscribes.SubscribesFragment"
+        android:label="Подписки"
+        tools:layout="@layout/fragment_subscribes" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.effmobile.aviaorders.presentation.fragments.search.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" />
+    <fragment
+        android:id="@+id/ticketsFragment"
+        android:name="com.effmobile.aviaorders.presentation.fragments.tickets.TicketsFragment"
+        android:label="fragment_tickets"
+        tools:layout="@layout/fragment_tickets" />
+</navigation>

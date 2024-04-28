@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aviaOrdersFragment"
+        android:icon="@drawable/selector_bottom_nav_avia_orders"
+        android:title="@string/bottom_nav_avia_orders" />
+
+
+    <item
+        android:id="@+id/hostelsFragment"
+        android:icon="@drawable/selector_bottom_nav_hostels"
+        android:title="@string/bottom_nav_hostels" />
+
+
+    <item
+        android:id="@+id/routeFragment"
+        android:icon="@drawable/selector_bottom_nav_route"
+        android:title="@string/bottom_nav_route" />
+
+
+    <item
+        android:id="@+id/subscribesFragment"
+        android:icon="@drawable/selector_bottom_nav_subscribes"
+        android:title="@string/bottom_nav_subscribes" />
+
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/selector_bottom_nav_profile"
+        android:title="@string/bottom_nav_profile" />
+
+</menu>
